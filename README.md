@@ -1,7 +1,8 @@
 # test
 test
-this is just
+this
+is
+just
 a
 test
-est est
-COOL
+すごいだね
