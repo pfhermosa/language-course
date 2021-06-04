@@ -6,3 +6,4 @@ just
 a
 test
 すごいだね
+ね
